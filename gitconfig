@@ -1,3 +1,5 @@
 [user]
   name = Julien Truffaut
   email = truffaut.julien@gmail.com
+[push]
+  default = simple
